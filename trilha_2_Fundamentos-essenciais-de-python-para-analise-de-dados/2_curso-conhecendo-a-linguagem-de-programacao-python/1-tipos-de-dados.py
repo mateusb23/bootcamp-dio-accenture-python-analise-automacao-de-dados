@@ -1,0 +1,5 @@
+print(1 + 10)
+print(1.5 + 4)
+print ("Abaixo podemos ver mais alguns exemplos de tipos de dados em Python:")
+print(True)
+print(False)
